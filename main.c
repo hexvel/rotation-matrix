@@ -87,6 +87,7 @@ int main() {
 
 		a += 0.2;
 		b += 0.2;
+		// usleep(1000);
 	}
 	return 0;
 }
